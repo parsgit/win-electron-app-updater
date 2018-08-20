@@ -98,3 +98,6 @@ eyJuYW1lIjoiYXBwIG5hbWUiLCJ2ZXIiOiIxLjAuMSIsInVybCI6Imh0dHA6Ly9sb2NhbGhvc3QvdXBk
 ```
 and save in server sample http://localhost/update/up.info
 
+download and add this file to app location
+
+[download elUpdater.exe](https://github.com/parsgit/win-electron-app-updater/releases)
