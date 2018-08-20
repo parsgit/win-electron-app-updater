@@ -88,7 +88,8 @@ up.info is a Json file with a base64 structure
 {"name":"app name","ver":"1.0.1","url":"http://localhost/update/update.asar","updateFileName":"update.asar","mainFileName":"app.asar","path":"resources\\","updateFileHash":"7c781d0bf6a37a936c7224054d99d6e0","active":"true","exeRun":"electron-quick-start.exe"}
 ```
 
-> url : update file link 
+> url : update file link
+
 > updateFileHash : use elHashFileUpdate.exe app for get hash update file
 
 
