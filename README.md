@@ -85,7 +85,7 @@ $.get('http://localhost/update/up.info?v='+new Date().getTime())
 up.info is a Json file with a base64 structure
 # params : 
 ```
-{"name":"app name","ver":"1.0.1","url":"http://localhost/update/update.asar","updateFileName":"update.asar","mainFileName":"app.asar","path":"resources\\","updateFileHash":"7c781d0bf6a37a936c7224054d99d6e0","active":"true","exeRun":"electron-quick-start.exe"}
+{"name":"app name","ver":"1.0.1","url":"http://localhost/update/update.asar","updateFileName":"update.asar","mainFileName":"app.asar","path":"resources\\","updateFileHash":"7c781d0bf6a37a936c7224054d99d6e0","active":true,"exeRun":"electron-quick-start.exe"}
 ```
 
 > url : update file link
